@@ -1317,3 +1317,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.23-15.09.37:051][555]AssetCheck: New page: Asset Save: Trigal_level
 [2025.04.23-15.09.37:051][555]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level_trigal/Niveles/Trigal_level.Trigal_level
 [2025.04.23-15.10.18:156][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.04.23-15.31.21:460][308]LogViewport: Scene viewport resized to 1484x942, mode Windowed.
+[2025.04.23-15.31.22:024][308]LogViewport: Scene viewport resized to 1484x902, mode Windowed.
+[2025.04.23-15.50.39:238][774]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.23-15.51.05:802][853]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
