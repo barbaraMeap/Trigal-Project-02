@@ -1,0 +1,68 @@
+# Compilados de Visual Studio / Rider
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vscode/
+.idea/
+
+# Archivos intermedios de compilación
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Archivos de usuario
+*.user
+*.userprefs
+*.log
+*.tlog
+*.db
+*.db-wal
+*.db-shm
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Build de Android/iOS
+Build/Android/
+Build/IOS/
+
+# Archivos de navegación y caché de precompilado
+.vs/
+.vscode/
+.vscode-test/
+
+# Ignore nativo de Git y UE
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.opensdf
+
+# Plugins temporales o en desarrollo
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Opcional: excluir contenido del marketplace si no se va a modificar
+# Content/MarketPlaceAssets/
+
+# Opcional: excluir proyectos de prueba
+*.uprojectdirs
+
+# Auto generado por Unreal si usas .uproject
+*.target
+*.modules
+*.generated.*
